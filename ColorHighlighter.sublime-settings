@@ -1,0 +1,8 @@
+{
+	"convert_util_path": "/usr/local/bin/convert",
+	"enabled": true,
+	"ha_icons": true,
+	"ha_style": "none",
+	"icons": true,
+	"style": "underlined_solid"
+}

@@ -1,0 +1,32 @@
+{
+	"bootstrapped": true,
+	"in_process_packages":
+	[
+	],
+	"installed_packages":
+	[
+		"BracketHighlighter",
+		"Color Highlighter",
+		"DashDoc",
+		"EditorConfig",
+		"Emmet",
+		"Function Name Display",
+		"GitGutter",
+		"LESS",
+		"LineEndings",
+		"Nodejs",
+		"Package Control",
+		"PHP Companion",
+		"PHP-Twig",
+		"Select Quoted",
+		"SideBarEnhancements",
+		"SublimeCodeIntel",
+		"SublimeLinter",
+		"SublimeLinter-csslint",
+		"SublimeLinter-jshint",
+		"SublimeLinter-json",
+		"SublimeLinter-php",
+		"Sublimerge Pro",
+		"TrailingSpaces"
+	]
+}
