@@ -12,14 +12,17 @@
 		"blackwhitebox-sonata/var",
 		"blackwhitebox-sonata/node_module",
 		"blackwhitebox-sonata/docker",
-		"blackwhitebox-sonata/bower_components"
+		"blackwhitebox-sonata/bower_components",
+		"tiger/bower_components"
 	],
 	"font_size": 17,
+	"highlight_modified_tabs": true,
 	"ignored_packages":
 	[
 		"Vintage"
 	],
 	"open_files_in_new_window": false,
+	"show_encoding": true,
 	"show_full_path": true,
 	"translate_tabs_to_spaces": true
 }

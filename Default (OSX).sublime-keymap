@@ -1,3 +1,24 @@
 [
-	{ "keys": ["f12"], "command": "reindent", "args": {"single_line": false} }
+	{ "keys": ["f12"], "command": "code_formatter"},
+    {
+        "keys": ["super+enter"],
+        "command": "shell_command",
+        "args": {
+            "command": "/Users/davidbabel/projects/adequatio/jsx/compile.sh --dev --quiet"
+        }
+    },
+    {
+        "keys": ["super+shift+enter"],
+        "command": "shell_command",
+        "args": {
+            "command": "/Users/davidbabel/projects/adequatio/jsx/compile.sh --quiet"
+        }
+    },
+    {
+        "keys": ["super+alt+s"],
+        "command": "shell_command",
+        "args": {
+            "command": "touch ~/projects/tiger/backoffice3/app/templates/index.hbs"
+        }
+    }
 ]
